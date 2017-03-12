@@ -1,3 +1,3 @@
 # TeikniApp
 
-Lítið TeikniApp sem ég bjó til í skólanum.
+Lítið TeikniApp sem ég bjó til í HÍ.
